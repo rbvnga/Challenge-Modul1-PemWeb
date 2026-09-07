@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(170, 224, 170);
+  text-align: center;
+}
+#profil {
+  background-color: lightblue;
+  width: 800px;
+  padding: 10px;
+  border: 1px solid purple;
+  margin: 100px;
+}
+
+h1 {
+  color: #000c7a;
+}
+
+.kuliah {
+  background-color: lightblue;
+  width: 800px;
+  padding: 10px;
+  border: 1px solid purple;
+  margin: 100px;
+}
+
+.hobi {
+  background-color: lightblue;
+  width: 800px;
+  padding: 10px;
+  border: 1px solid purple;
+  margin: 100px;
+}
+
+.pesan {
+  background-color: lightblue;
+  width: 800px;
+  padding: 10px;
+  border: 1px solid purple;
+  margin: 100px;
+}
+
+.foto-profil {
+  width: 350px;
+  height: 300px;
+  border-radius: 50%;
+}
