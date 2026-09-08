@@ -226,6 +226,11 @@ textarea:focus {
     margin: 20px auto;
   }
 
+  .profiles-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
   .galeri {
     grid-template-columns: 1fr;
   }
