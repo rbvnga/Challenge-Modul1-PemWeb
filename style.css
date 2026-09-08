@@ -137,14 +137,16 @@ button:hover {
   background-color: #123e48;
 }
 
-input {
+input,
+textarea {
   width: 100%;
   box-sizing: border-box;
   margin: 8px 0;
   padding: 10px;
 }
 
-input:focus {
+input:focus,
+textarea:focus {
   border-color: #7fb3b8;
   background-color: lightblue;
   outline: none;
