@@ -101,6 +101,17 @@ a:hover {
   border: 1px solid #7fb3b8;
   margin: 100px auto;
 }
+
+.hobi-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.hobi-container > div {
+  flex: 1;
+}
+
 table {
   width: 100%;
   border-collapse: collapse;
@@ -110,6 +121,16 @@ table {
   grid-template-columns: 1fr 1fr 1fr;
   gap: 10px;
 }
+
+.galeri > div {
+  display: flex;
+  flex-direction: column;
+}
+
+.galeri > div ul {
+  height: 180px;
+}
+
 .kepribadian {
   background-color: #7fb3b8;
   color: white;
