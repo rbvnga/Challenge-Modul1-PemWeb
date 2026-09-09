@@ -84,22 +84,19 @@ a:hover {
   color: white;
 }
 
-/* isi konten */
 .kuliah {
   background-color: #ffffff;
-  max-width: 800px;
   padding: 10px;
   border: 1px solid #7fb3b8;
-  margin: 100px auto;
+  margin: 100px;
 }
 
 .hobi {
   text-align: left;
   background-color: #ffffff;
-  max-width: 800px;
   padding: 10px;
   border: 1px solid #7fb3b8;
-  margin: 100px auto;
+  margin: 100px;
 }
 
 .hobi-container {
@@ -127,10 +124,6 @@ table {
   flex-direction: column;
 }
 
-.galeri > div ul {
-  height: 180px;
-}
-
 .kepribadian {
   background-color: #7fb3b8;
   color: white;
@@ -155,10 +148,9 @@ table {
 
 .pesan {
   background-color: #ffffff;
-  max-width: 800px;
   padding: 10px;
   border: 1px solid #7fb3b8;
-  margin: 100px auto;
+  margin: 100px;
 }
 
 .highlight-reva {
