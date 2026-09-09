@@ -123,6 +123,10 @@ table {
   flex-direction: column;
 }
 
+.galeri > div ul {
+  height: 180px;
+}
+
 .kepribadian {
   background-color: #7fb3b8;
   color: white;
